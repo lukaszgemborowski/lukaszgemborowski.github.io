@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Buildroot basic usage"
-date:   2016-07-16 11:35:21 +0100
+date:   2016-07-19 11:35:21 +0100
 categories: linux qemu
 ---
 
